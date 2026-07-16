@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0257-binary-tree-paths](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0257-binary-tree-paths) |
 | [0686-repeated-string-match](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0686-repeated-string-match) |
+| [0720-longest-word-in-dictionary](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0720-longest-word-in-dictionary) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Backtracking
 |  |
@@ -63,4 +64,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0686-repeated-string-match) |
+## Array
+|  |
+| ------- |
+| [0720-longest-word-in-dictionary](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0720-longest-word-in-dictionary) |
+## Hash Table
+|  |
+| ------- |
+| [0720-longest-word-in-dictionary](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0720-longest-word-in-dictionary) |
+## Trie
+|  |
+| ------- |
+| [0720-longest-word-in-dictionary](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0720-longest-word-in-dictionary) |
+## Sorting
+|  |
+| ------- |
+| [0720-longest-word-in-dictionary](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0720-longest-word-in-dictionary) |
 <!---LeetCode Topics End-->
