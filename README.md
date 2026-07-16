@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0257-binary-tree-paths) |
+| [0686-repeated-string-match](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0686-repeated-string-match) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Backtracking
 |  |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
