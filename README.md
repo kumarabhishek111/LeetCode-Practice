@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0207-course-schedule) |
 | [0257-binary-tree-paths](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0257-binary-tree-paths) |
 | [0695-max-area-of-island](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0695-max-area-of-island) |
+| [0785-is-graph-bipartite](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0785-is-graph-bipartite) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Binary Tree
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0207-course-schedule) |
 | [0695-max-area-of-island](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0695-max-area-of-island) |
+| [0785-is-graph-bipartite](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0785-is-graph-bipartite) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0695-max-area-of-island) |
+| [0785-is-graph-bipartite](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0785-is-graph-bipartite) |
 ## Matrix
 |  |
 | ------- |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0207-course-schedule) |
+| [0785-is-graph-bipartite](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0785-is-graph-bipartite) |
 ## Topological Sort
 |  |
 | ------- |
