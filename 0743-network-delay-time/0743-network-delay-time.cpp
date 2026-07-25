@@ -3,8 +3,8 @@ public:
     int networkDelayTime(vector<vector<int>>& times, int n, int k) {
         vector<vector<pair<int, int>>> adj(n + 1);
 
-        for (auto &edge : times) {
-            adj[edge[0]].push_back({edge[1], edge[2]});
+        for (auto &it : times) {
+            adj[it[0]].push_back({it[1], it[2]});
         }
 
         vector<int> dist(n + 1, INT_MAX);
@@ -19,7 +19,10 @@ public:
 
             if (d > dist[node]) continue;
 
-            for (auto &[next, wt] : adj[node]) {
+            for (auto &it : adj[node]) {
+                int next = it.first;
+                int wt = it.second;
+
                 if (dist[node] + wt < dist[next]) {
                     dist[next] = dist[node] + wt;
                     pq.push({dist[next], next});
