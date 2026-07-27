@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0001-two-sum) |
 | [0200-number-of-islands](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0695-max-area-of-island) |
 | [0720-longest-word-in-dictionary](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0720-longest-word-in-dictionary) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0001-two-sum) |
 | [0720-longest-word-in-dictionary](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0720-longest-word-in-dictionary) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 ## Trie
