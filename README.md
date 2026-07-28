@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0686-repeated-string-match) |
 | [0720-longest-word-in-dictionary](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0720-longest-word-in-dictionary) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0988-smallest-string-starting-from-leaf) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0720-longest-word-in-dictionary](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0720-longest-word-in-dictionary) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/3536-maximum-product-of-two-digits) |
 ## Math
 |  |
@@ -178,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0303-range-sum-query-immutable) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
