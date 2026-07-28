@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0001-two-sum) |
 | [0200-number-of-islands](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0200-number-of-islands) |
+| [0303-range-sum-query-immutable](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0695-max-area-of-island](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0695-max-area-of-island) |
 | [0720-longest-word-in-dictionary](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0720-longest-word-in-dictionary) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0303-range-sum-query-immutable) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 ## Bit Manipulation
 |  |
@@ -172,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
