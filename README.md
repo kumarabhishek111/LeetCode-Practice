@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0120-triangle](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0322-coin-change](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0322-coin-change) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0001-two-sum) |
+| [0120-triangle](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0120-triangle) |
 | [0200-number-of-islands](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0200-number-of-islands) |
 | [0303-range-sum-query-immutable](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0322-coin-change) |
