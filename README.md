@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0720-longest-word-in-dictionary) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0988-smallest-string-starting-from-leaf) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0001-two-sum) |
 | [0720-longest-word-in-dictionary](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0720-longest-word-in-dictionary) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Trie
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
 |  |
@@ -126,10 +129,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Counting
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Number Theory
 |  |
 | ------- |
