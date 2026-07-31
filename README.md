@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0695-max-area-of-island) |
 | [0720-longest-word-in-dictionary](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0720-longest-word-in-dictionary) |
+| [0997-find-the-town-judge](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0997-find-the-town-judge) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0001-two-sum) |
 | [0720-longest-word-in-dictionary](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0720-longest-word-in-dictionary) |
+| [0997-find-the-town-judge](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0997-find-the-town-judge) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Trie
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0997-find-the-town-judge](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0997-find-the-town-judge) |
 ## Topological Sort
 |  |
 | ------- |
