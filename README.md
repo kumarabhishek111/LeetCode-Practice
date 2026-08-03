@@ -208,4 +208,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
