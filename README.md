@@ -211,9 +211,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0024-swap-nodes-in-pairs) |
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
