@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0988-smallest-string-starting-from-leaf) |
+| [3310-remove-methods-from-project](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/3310-remove-methods-from-project) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0997-find-the-town-judge](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0997-find-the-town-judge) |
+| [3310-remove-methods-from-project](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/3310-remove-methods-from-project) |
 ## Topological Sort
 |  |
 | ------- |
