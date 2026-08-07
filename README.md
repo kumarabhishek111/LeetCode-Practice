@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0002-add-two-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/3536-maximum-product-of-two-digits) |
@@ -227,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0024-swap-nodes-in-pairs) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
