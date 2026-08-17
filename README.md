@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0322-coin-change) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1510-stone-game-iv](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String Matching
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0720-longest-word-in-dictionary) |
 | [0997-find-the-town-judge](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0997-find-the-town-judge) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1563-stone-game-v](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/1563-stone-game-v) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0002-add-two-numbers) |
 | [1510-stone-game-iv](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/1563-stone-game-v) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/1563-stone-game-v) |
 ## Nim Game
 |  |
 | ------- |
