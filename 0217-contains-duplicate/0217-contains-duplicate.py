@@ -6,12 +6,12 @@ class Solution(object):
         :rtype: bool
         """
 
-        seen = set()
+        seen = {}
 
         for num in nums:
             if num in seen:
                 return True
 
-            seen.add(num)
+            seen[num] = 1
 
         return False
