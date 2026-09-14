@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0120-triangle](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0120-triangle) |
 | [0200-number-of-islands](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0695-max-area-of-island) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [0720-longest-word-in-dictionary](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0720-longest-word-in-dictionary) |
 | [0997-find-the-town-judge](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0997-find-the-town-judge) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [0720-longest-word-in-dictionary](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0720-longest-word-in-dictionary) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
