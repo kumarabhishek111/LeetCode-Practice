@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0002-add-two-numbers) |
+| [0836-rectangle-overlap](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0836-rectangle-overlap) |
 | [1510-stone-game-iv](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/1563-stone-game-v) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -303,4 +304,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
