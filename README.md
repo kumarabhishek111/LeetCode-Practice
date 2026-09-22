@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0257-binary-tree-paths) |
 | [0686-repeated-string-match](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0686-repeated-string-match) |
 | [0720-longest-word-in-dictionary](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0720-longest-word-in-dictionary) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0257-binary-tree-paths) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0988-smallest-string-starting-from-leaf) |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0113-path-sum-ii) |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0033-search-in-rotated-sorted-array) |
+| [0079-word-search](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0120-triangle) |
 | [0200-number-of-islands](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0217-contains-duplicate) |
@@ -211,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0695-max-area-of-island) |
 | [0835-image-overlap](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0835-image-overlap) |
