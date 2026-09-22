@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0120-triangle](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0120-triangle) |
 | [0200-number-of-islands](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0217-contains-duplicate) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 ## Combinatorics
