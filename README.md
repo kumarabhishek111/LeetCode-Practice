@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
+| [0739-daily-temperatures](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0739-daily-temperatures) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0695-max-area-of-island) |
 | [0720-longest-word-in-dictionary](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0720-longest-word-in-dictionary) |
+| [0739-daily-temperatures](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0739-daily-temperatures) |
 | [0835-image-overlap](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0835-image-overlap) |
 | [0997-find-the-town-judge](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0997-find-the-town-judge) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -325,4 +327,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/3525-find-x-value-of-array-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
