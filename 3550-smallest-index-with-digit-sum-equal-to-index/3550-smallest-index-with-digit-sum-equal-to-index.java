@@ -1,5 +1,5 @@
 class Solution {
-    public int smallestIndex(int[] nums) { // Fixed method name
+    public int smallestIndex(int[] nums) { 
         for (int i = 0; i < nums.length; i++) {
             int digitSum = 0;
             int temp = nums[i];
