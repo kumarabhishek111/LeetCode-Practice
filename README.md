@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0686-repeated-string-match) |
 | [0720-longest-word-in-dictionary](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0720-longest-word-in-dictionary) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0988-smallest-string-starting-from-leaf) |
+| [1096-brace-expansion-ii](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/1096-brace-expansion-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0257-binary-tree-paths) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0988-smallest-string-starting-from-leaf) |
+| [1096-brace-expansion-ii](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Tree
 |  |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0739-daily-temperatures](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0739-daily-temperatures) |
+| [1096-brace-expansion-ii](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/1096-brace-expansion-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1096-brace-expansion-ii](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/1096-brace-expansion-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/3310-remove-methods-from-project) |
 ## Dynamic Programming
@@ -142,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [0720-longest-word-in-dictionary](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0720-longest-word-in-dictionary) |
 | [0997-find-the-town-judge](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0997-find-the-town-judge) |
+| [1096-brace-expansion-ii](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/1096-brace-expansion-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -159,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [0720-longest-word-in-dictionary](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0720-longest-word-in-dictionary) |
+| [1096-brace-expansion-ii](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/1096-brace-expansion-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
