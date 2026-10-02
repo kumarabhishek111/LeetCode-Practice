@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0257-binary-tree-paths) |
 | [0686-repeated-string-match](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0686-repeated-string-match) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0257-binary-tree-paths) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0022-generate-parentheses) |
 | [0120-triangle](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0322-coin-change](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0322-coin-change) |
@@ -357,4 +360,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0322-coin-change) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
