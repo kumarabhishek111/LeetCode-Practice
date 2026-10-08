@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0686-repeated-string-match) |
 | [0720-longest-word-in-dictionary](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0720-longest-word-in-dictionary) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0988-smallest-string-starting-from-leaf) |
+| [1021-remove-outermost-parentheses](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/1096-brace-expansion-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0739-daily-temperatures](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0739-daily-temperatures) |
+| [1021-remove-outermost-parentheses](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/1096-brace-expansion-ii) |
 ## Breadth-First Search
 |  |
@@ -368,4 +370,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/0032-longest-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/kumarabhishek111/LeetCode-Practice/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
